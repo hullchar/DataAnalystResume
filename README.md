@@ -1,9 +1,5 @@
 # Data Analyst Resume
-<br>Professional 1-Page and 2-Page Resume for potential opportunities and growth 
-
-## Table of contents
-- 1 Page Resume
-- 2 Page Resume
+<br>Professional Resume for potential opportunities and growth 
 
 ## Contact
 Please see my Linkedin to contact me - https://www.linkedin.com/in/charhull/
