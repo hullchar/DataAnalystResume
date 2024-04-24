@@ -1,6 +1,6 @@
 # Data Analyst Resume
 
--![alt text](https://github.com/hullchar/DataAnalystResume/blob/d9470ddab81130decf716cb508ded1bfc2fab915/Resume%20Header.png)
+![plot](https://github.com/hullchar/DataAnalystResume/blob/main/Untitled%20design.jpg)
 
 
 <br> As a current Data Analyst for organic and inorganic acquisitions at Vacasa, I work on a multitude of projects that require creative thinking, problem-solving, and creating new processes that are then documented for future tasks/acquisitions. I thrive in situations that allow for intellectual creativity and the pursuit of goals to be completed.<br> 
